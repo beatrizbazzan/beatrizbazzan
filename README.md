@@ -8,6 +8,16 @@
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Studying in this moment:
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
+![Rest](https://img.shields.io/badge/-Rest-0D1117?style=for-the-badge&logo=rest&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![Serverless](https://img.shields.io/badge/-Serverless-0D1117?style=for-the-badge&logo=serverless&labelColor=0D1117)&nbsp;
+
 <div> 
   <a href="https://www.instagram.com/b.bazzan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: biabazzan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
