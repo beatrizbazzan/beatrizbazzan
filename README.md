@@ -10,12 +10,11 @@
 
 ### Studying in this moment:
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
-![Rest](https://img.shields.io/badge/-Rest-0D1117?style=for-the-badge&logo=rest&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)&nbsp;
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)&nbsp;
 ![Serverless](https://img.shields.io/badge/-Serverless-0D1117?style=for-the-badge&logo=serverless&labelColor=0D1117)&nbsp;
 
 <div> 
