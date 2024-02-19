@@ -1,17 +1,10 @@
 # Hello everyone, I'm Bea, feel free to look at any of my works and welcome!
 
-<table>
-  <a href="https://github.com/beatrizbazzan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizbazzan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizbazzan&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="![image](https://github.com/beatrizbazzan/beatrizbazzan/assets/69995383/b5d8cfd5-9298-4927-a527-853f734ac602)
-" width="120" alt="React.js">
-  <img src="![image](https://github.com/beatrizbazzan/beatrizbazzan/assets/69995383/dc55e007-b521-42c8-a7b7-3fc941e9d068)" width="120" alt="Typescript">
-  <img src="![image](https://github.com/beatrizbazzan/beatrizbazzan/assets/69995383/f5334d42-621b-409a-891c-54c640f8b0fe)" width="120" alt="Node.js">
-  <img src="![image](https://github.com/beatrizbazzan/beatrizbazzan/assets/69995383/46582955-1087-427a-80af-671e21c86949)" width="120" alt="Angular">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img src="![image](https://github.com/beatrizbazzan/beatrizbazzan/assets/69995383/48dfb83b-fcd5-4bfa-8277-b9bf6d6284dd)" width="120" alt="Java">
-</table>
+### Main skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div> 
   <a href="https://www.instagram.com/b.bazzan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
